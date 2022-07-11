@@ -3,7 +3,10 @@
 for 408 Kaoyan
 
 author: [StupidPanther @ Github](https://github.com/StupidPanther)
+
 url: https://github.com/StupidPanther/Data-Structure-Library_408_KaoYan_CPP
+
+using GNU Lesser General Public License v2.1
 
 ## Introduction
 
